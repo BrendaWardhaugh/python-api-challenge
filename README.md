@@ -40,7 +40,7 @@ Initial search for vacation spots without searching based on specified criteria,
 
 ![vacation starting point](https://user-images.githubusercontent.com/120147552/216836994-af1faa9e-a30e-45fc-8b87-8b976ce4db19.png)
 
-Desired weather conditions for vacation location:
+Desired weather conditions selected for vacation location:
 * Max Temp (C) 18 > & < 30
 * Wind Speed < 7
 * Cloudiness < 25
